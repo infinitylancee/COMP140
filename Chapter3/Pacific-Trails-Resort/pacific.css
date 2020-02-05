@@ -1,0 +1,20 @@
+body { background-color: #FFFFFF;
+        color: #666666;
+        font-family: sans-serif;}
+header { background-color: #000033;
+    color: #FFFFFF;
+        font-family: sans-serif}
+h1 { line-height: 200%;}
+nav { font-weight: bold;
+        color: #90C7E3;}
+h2 { color: #3399CC;
+    font-family: sans-serif;}
+dt { color: #000033;
+    font-weight: bold;}
+.resort { Color: #000033;
+        font-size: 1.2em;}
+footer { text-align: center;
+        font-size: .70em;}
+#wrapper { margin-left: auto;
+        margin-right: auto;
+        width: 80%; }
