@@ -1,0 +1,49 @@
+body { background-color: #FFFFFF;
+        color: #666666;
+        font-family: sans-serif;
+    background-image: url(background.jpg);
+    }
+header { background-color: #000033;
+    color: #FFFFFF;
+        font-family: sans-serif}
+h1 { line-height: 200%;
+    background-image: url(sunset.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-left: 20px;
+    height: 72px;
+    margin-bottom: 0;}
+nav { font-weight: bold;
+        color: #90C7E3;
+    background-color: #90C7E3
+    padding: 5px}
+h2 { color: #3399CC;
+    font-family: sans-serif;}
+h3 { color: #000033}
+dt { color: #000033;
+    font-weight: bold;}
+.resort { Color: #000033;
+        font-size: 1.2em;}
+footer { text-align: center;
+        font-size: .70em;
+    padding: 10px}
+#wrapper { margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+        background-color: #ffffff;
+        min-width: 700px;
+        max-width: 1024px;
+        box-shadow: 3px 3px 5px 6px #000;}
+main {  padding-right: 20px;
+        padding-left: 20px;
+        display:block;}
+homehero { height: 300px;
+            background-size: 100% 100%;
+            background-repeat: no-repeat;}
+yurthero { height: 300px;
+            background-size: 100% 100%;
+    background-repeat: no-repeat;}
+trailhero { height: 300px;
+            background-size: 100% 100%;
+            background-repeat: no-repeat;}
+nav a {text-decoration: none;}
